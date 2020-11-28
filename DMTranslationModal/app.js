@@ -103,8 +103,7 @@ app.shortcut('dm_translation', async ({ack, shortcut, client }) => {
   console.log('⚡️ Bolt app is running! ⚡️');
 })();
 
-//export SLACK_SIGNING_SECRET=e5740858906c55f45e4c18bdd65ef65e
-//export SLACK_BOT_TOKEN=xoxb-1514590661220-1532290939843-07U5fbEGnB50gCA1PDQ21oD8
+
 
 /*
 ,
